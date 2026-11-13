@@ -1,0 +1,6 @@
+/data/
+/.venv/
+/.deps/
+**/__pycache__/
+*.py[cod]
+assistant-path.txt
